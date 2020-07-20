@@ -1,0 +1,11 @@
+.task{
+    margin-top: 30px;
+    text-align: center;
+}
+
+strong{
+    font-size: 30px;
+}
+p{
+    user-select:none
+}
